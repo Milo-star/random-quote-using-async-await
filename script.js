@@ -4,6 +4,7 @@ const author = document.getElementById('author')
 const image = document.getElementById('image')
 
 btn.addEventListener('click', function () {
+
   const reqListener = response => {
     const temp = JSON.parse(response.currentTarget.response)
 

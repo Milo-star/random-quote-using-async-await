@@ -3,6 +3,7 @@
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 20px;
     background-color: #696969;
 }
 
@@ -39,4 +40,5 @@ img{
 
 .blockquote{
     border: 1px solid ;
+    border-radius: 50px;
 }
