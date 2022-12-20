@@ -30,7 +30,7 @@ img{
     border: none;
     background-color: black;
     color: white;
-    cursor: crosshair;
+    cursor: pointer;
 }
 
 #btn:hover{
